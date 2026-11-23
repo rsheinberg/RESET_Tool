@@ -1,0 +1,11 @@
+﻿Variable,Value
+solar_output_1kw,1694.762409
+rooftop_solar_kw,4
+gas_vehicle_avg_mpg,26.94
+ev_avg_mpge,97
+lvl2_charger_rate,7.2
+at_home_start_time,18
+lvl2_public_starting_price,0.29
+dcfc_public_starting_price,0.42
+gasoline_starting,4.5
+ev_adoption_rate,0.035
