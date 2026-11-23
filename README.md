@@ -10,6 +10,8 @@ This repository contains input datasets and compiled outputs from the RESET Tool
 
 - **`data/`** — Input datasets used by the RESET Tool.
 - **`RESET_concatenated_outputs_2025`** — Concatenated outputs from multiple tool runs, used to generate figures and support visualization of projected household energy spending and burden across Los Angeles.
+- **`RunID Codes`** - Tabular explanation of what the RunIDs in the concatenated outputs represent
+- **`RunID Description`** - Visual explanation of how the RunIDs in the concatenated outputs work
 
 The underlying RESET Tool scripts are not included in this repository at this time. Additional documentation of the tool's methodology, assumptions, and data sources is available in the technical guide linked below.
 
