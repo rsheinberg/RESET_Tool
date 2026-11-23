@@ -9,7 +9,7 @@ The tool estimates household energy spending and energy burden across Los Angele
 This repository contains input datasets and compiled outputs from the RESET Tool, including data used to develop figures in the accompanying academic manuscript and the public Tableau dashboard.
 
 - **`data/`** — Input datasets used by the RESET Tool.
-- **`RESET_outputs.csv`** — Concatenated outputs from multiple tool runs, used to generate figures and support visualization of projected household energy spending and burden across Los Angeles.
+- **`RESET_concatenated_outputs_2025`** — Concatenated outputs from multiple tool runs, used to generate figures and support visualization of projected household energy spending and burden across Los Angeles.
 
 The underlying RESET Tool scripts are not included in this repository at this time. Additional documentation of the tool's methodology, assumptions, and data sources is available in the technical guide linked below.
 
